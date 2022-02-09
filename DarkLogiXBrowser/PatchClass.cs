@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HarmonyLib;
-using NeosModLoader;
+using BaseX;
 using FrooxEngine;
 using FrooxEngine.LogiX;
 using FrooxEngine.UIX;
-using BaseX;
+using HarmonyLib;
+using NeosModLoader;
 
-namespace TestPatch
+namespace DarkLogiXBrowser
 {
     public class DarkLogiXPatcher : NeosMod
     {
